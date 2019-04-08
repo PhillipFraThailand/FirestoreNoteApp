@@ -1,0 +1,6 @@
+framework module Pods_noteAppDemoFirestore {
+  umbrella header "Pods-noteAppDemoFirestore-umbrella.h"
+
+  export *
+  module * { export * }
+}
